@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrayonCode.Platform", "Cray
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platform.Model", "Platform.Model\Platform.Model.csproj", "{BBD21B5D-FF66-4DCD-AF4C-9EEA5751DEF6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PlatformCommonLibrary", "PlatformCommonLibrary", "{EB3F90AE-5174-40A3-971C-D747DC8D63CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Tools", "Common.Tools\Common.Tools.csproj", "{6C25C2C6-83BD-4FFB-92E6-E0E72261D9E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,8 +23,15 @@ Global
 		{BBD21B5D-FF66-4DCD-AF4C-9EEA5751DEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBD21B5D-FF66-4DCD-AF4C-9EEA5751DEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBD21B5D-FF66-4DCD-AF4C-9EEA5751DEF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C25C2C6-83BD-4FFB-92E6-E0E72261D9E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C25C2C6-83BD-4FFB-92E6-E0E72261D9E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C25C2C6-83BD-4FFB-92E6-E0E72261D9E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C25C2C6-83BD-4FFB-92E6-E0E72261D9E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6C25C2C6-83BD-4FFB-92E6-E0E72261D9E5} = {EB3F90AE-5174-40A3-971C-D747DC8D63CE}
 	EndGlobalSection
 EndGlobal
