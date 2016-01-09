@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrayonCode.Platform", "CrayonCode.Platform\CrayonCode.Platform.csproj", "{7321A386-8815-4E21-A979-D080BF6C14C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platform.Model", "Platform.Model\Platform.Model.csproj", "{BBD21B5D-FF66-4DCD-AF4C-9EEA5751DEF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7321A386-8815-4E21-A979-D080BF6C14C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7321A386-8815-4E21-A979-D080BF6C14C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7321A386-8815-4E21-A979-D080BF6C14C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7321A386-8815-4E21-A979-D080BF6C14C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBD21B5D-FF66-4DCD-AF4C-9EEA5751DEF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD21B5D-FF66-4DCD-AF4C-9EEA5751DEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD21B5D-FF66-4DCD-AF4C-9EEA5751DEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD21B5D-FF66-4DCD-AF4C-9EEA5751DEF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

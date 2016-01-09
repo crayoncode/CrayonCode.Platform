@@ -1,0 +1,9 @@
+F:\projects\vs2012\CrayonCode.Platform\Platform.Model\bin\Debug\Platform.Model.dll.config
+F:\projects\vs2012\CrayonCode.Platform\Platform.Model\bin\Debug\Platform.Model.dll
+F:\projects\vs2012\CrayonCode.Platform\Platform.Model\bin\Debug\Platform.Model.pdb
+F:\projects\vs2012\CrayonCode.Platform\Platform.Model\bin\Debug\EntityFramework.dll
+F:\projects\vs2012\CrayonCode.Platform\Platform.Model\bin\Debug\EntityFramework.xml
+F:\projects\vs2012\CrayonCode.Platform\Platform.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\projects\vs2012\CrayonCode.Platform\Platform.Model\obj\Debug\Platform.Model.csprojResolveAssemblyReference.cache
+F:\projects\vs2012\CrayonCode.Platform\Platform.Model\obj\Debug\Platform.Model.dll
+F:\projects\vs2012\CrayonCode.Platform\Platform.Model\obj\Debug\Platform.Model.pdb
