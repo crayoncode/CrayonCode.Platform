@@ -3,3 +3,7 @@ F:\projects\vs2012\CrayonCode.Platform\Common.Tools\bin\Debug\Common.Tools.pdb
 F:\projects\vs2012\CrayonCode.Platform\Common.Tools\obj\Debug\Common.Tools.csprojResolveAssemblyReference.cache
 F:\projects\vs2012\CrayonCode.Platform\Common.Tools\obj\Debug\Common.Tools.dll
 F:\projects\vs2012\CrayonCode.Platform\Common.Tools\obj\Debug\Common.Tools.pdb
+E:\visualstudio2012\CrayonCode.Platform\Common.Tools\bin\Debug\Common.Tools.dll
+E:\visualstudio2012\CrayonCode.Platform\Common.Tools\bin\Debug\Common.Tools.pdb
+E:\visualstudio2012\CrayonCode.Platform\Common.Tools\obj\Debug\Common.Tools.dll
+E:\visualstudio2012\CrayonCode.Platform\Common.Tools\obj\Debug\Common.Tools.pdb
