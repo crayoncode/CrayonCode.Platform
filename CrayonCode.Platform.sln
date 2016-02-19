@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PlatformCommonLibrary", "Pl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Tools", "Common.Tools\Common.Tools.csproj", "{6C25C2C6-83BD-4FFB-92E6-E0E72261D9E5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Platform.Models", "Platform.Models", "{1662C145-DE1B-4EAD-9B18-C7924F93B472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platform.DbHelperLibrary", "Platform.DbHelperLibrary\Platform.DbHelperLibrary.csproj", "{CF4786C0-692C-4CAF-A2EE-391573D772FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,11 +31,17 @@ Global
 		{6C25C2C6-83BD-4FFB-92E6-E0E72261D9E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C25C2C6-83BD-4FFB-92E6-E0E72261D9E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C25C2C6-83BD-4FFB-92E6-E0E72261D9E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF4786C0-692C-4CAF-A2EE-391573D772FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4786C0-692C-4CAF-A2EE-391573D772FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF4786C0-692C-4CAF-A2EE-391573D772FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF4786C0-692C-4CAF-A2EE-391573D772FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6C25C2C6-83BD-4FFB-92E6-E0E72261D9E5} = {EB3F90AE-5174-40A3-971C-D747DC8D63CE}
+		{CF4786C0-692C-4CAF-A2EE-391573D772FB} = {EB3F90AE-5174-40A3-971C-D747DC8D63CE}
+		{BBD21B5D-FF66-4DCD-AF4C-9EEA5751DEF6} = {1662C145-DE1B-4EAD-9B18-C7924F93B472}
 	EndGlobalSection
 EndGlobal
