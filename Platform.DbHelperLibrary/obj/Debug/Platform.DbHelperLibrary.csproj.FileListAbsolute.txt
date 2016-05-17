@@ -1,0 +1,6 @@
+E:\visualstudio2012\CrayonCode.Platform\Platform.DbHelperLibrary\bin\Debug\Platform.DbHelperLibrary.dll
+E:\visualstudio2012\CrayonCode.Platform\Platform.DbHelperLibrary\bin\Debug\Platform.DbHelperLibrary.pdb
+E:\visualstudio2012\CrayonCode.Platform\Platform.DbHelperLibrary\bin\Debug\Oracle.DataAccess.dll
+E:\visualstudio2012\CrayonCode.Platform\Platform.DbHelperLibrary\obj\Debug\Platform.DbHelperLibrary.csprojResolveAssemblyReference.cache
+E:\visualstudio2012\CrayonCode.Platform\Platform.DbHelperLibrary\obj\Debug\Platform.DbHelperLibrary.dll
+E:\visualstudio2012\CrayonCode.Platform\Platform.DbHelperLibrary\obj\Debug\Platform.DbHelperLibrary.pdb
