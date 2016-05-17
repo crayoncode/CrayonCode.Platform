@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="JSON操作\ConvertJson.cs" />
+    <Compile Include="Tools.cs" />
     <Compile Include="XML操作类\XmlHelper.cs" />
     <Compile Include="字符串\StringHelper.cs" />
     <Compile Include="正则表达式\RegexHelper.cs" />
